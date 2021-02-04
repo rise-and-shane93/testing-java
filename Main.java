@@ -10,6 +10,7 @@ class Main {
         String firstName = input.next();
         
         System.out.println("Hello " + firstName);
+        System.out.println("Goodbye");
         // System.out.println(GPA);
     }
 }
